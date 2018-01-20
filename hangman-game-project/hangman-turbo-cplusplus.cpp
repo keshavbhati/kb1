@@ -19,6 +19,10 @@ int main ()
 	char words[][MAXLENGTH] =
 	{
 		"india",
+		"china"
+	 	"america"
+		"england"
+		"uganda"
 		"pakistan",
 		"nepal",
 		"malaysia",
